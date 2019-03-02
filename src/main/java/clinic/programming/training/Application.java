@@ -28,6 +28,7 @@ public class Application {
         System.out.println ("Inside Application");
     }
 
+	// just adding for testing 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
     	System.out.println ("Starting Application");
